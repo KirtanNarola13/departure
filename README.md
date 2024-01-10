@@ -1,33 +1,21 @@
-# departure
 
-A new Flutter project.
-
-<img align src="https://github.com/shraddhagaudani/departure/assets/122030732/1d5912ad-3b92-4f71-9ad5-ea8c0381b366" width ="220px">
-<img align src="https://github.com/shraddhagaudani/departure/assets/122030732/dba586e7-01c8-493b-81a5-da8698ba742e" width ="220px">
-<img src="https://github.com/shraddhagaudani/departure/assets/122030732/a4f91fd7-2be5-4227-ace7-d1abfcab9ddc" width ="220px">
+<img align src="https://github.com/KirtanNarola13/departure/assets/133342879/533fd827-b0b0-463c-ac8c-d6167d46b3ae" width ="250px">
+<img align src="https://github.com/KirtanNarola13/departure/assets/133342879/e94fecf6-afb4-4e0f-a3dd-04926ab58baf" width ="250px">
+<img src="https://github.com/KirtanNarola13/departure/assets/133342879/75523040-d818-4663-bc55-b9c75b40132f" width ="250px">
 
 
-<img align src="https://github.com/shraddhagaudani/departure/assets/122030732/a92e4ad4-5a47-4745-8c85-dabcdb7ad79e" width ="220px">
-<img align src="https://github.com/shraddhagaudani/departure/assets/122030732/4a575b92-9657-4b85-a0a9-18ef74c3029c" width ="220px">
-<img src="https://github.com/shraddhagaudani/departure/assets/122030732/52c0109b-23d2-4eeb-98ad-7270f2e3adb7" width ="220px">
+<img align src="https://github.com/KirtanNarola13/departure/assets/133342879/2a62b32b-442d-474a-aa56-ec562851efff" width ="250px">
+<img align src="https://github.com/KirtanNarola13/departure/assets/133342879/ae4d66be-5421-4dbc-89d7-2e71b07e3a65" width ="250px">
+<img src="https://github.com/KirtanNarola13/departure/assets/133342879/cb27f53e-fd80-42b0-bcdf-0a3ef09837b3" width ="250px">
 
 
-<img align src="https://github.com/shraddhagaudani/departure/assets/122030732/89ee695f-a72f-48f2-9bb4-9f50da7dc3f5" width ="220px">
-<img align src="https://github.com/shraddhagaudani/departure/assets/122030732/7328b925-0123-41ac-ab36-0da8ee7fc1d2" width ="220px">
-<img src="https://github.com/shraddhagaudani/departure/assets/122030732/cba9c407-3cc6-4031-bf56-cc448c33bbd3" width ="220px">
+<img align src="https://github.com/KirtanNarola13/departure/assets/133342879/2d952089-394b-4303-ae85-94da6687f647" width ="250px">
+<img align src="https://github.com/KirtanNarola13/departure/assets/133342879/f469c93d-b99d-40f1-b435-0459a3ff7fa0" width ="250px">
+<img src="https://github.com/KirtanNarola13/departure/assets/133342879/48e3c9b0-b6c7-486d-92eb-4df93e3e1091" width ="250px">
 
 
 
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-
-https://github.com/shraddhagaudani/departure/assets/122030732/26ffc0f9-abdd-4292-99a0-f08476358f9f
 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
