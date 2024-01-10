@@ -66,7 +66,7 @@ making the app inclusive and accessible to a wider audience.
 - Project report detailing the development process, challenges faced, and solutions implemented.
 - Presentation and demonstration of the application to a panel of reviewers.
 
-=============Screen Shots=============
+========================Screen Shots======================
 
 <img align src="https://github.com/KirtanNarola13/departure/assets/133342879/533fd827-b0b0-463c-ac8c-d6167d46b3ae" width ="250px">
 <img align src="https://github.com/KirtanNarola13/departure/assets/133342879/e94fecf6-afb4-4e0f-a3dd-04926ab58baf" width ="250px">
